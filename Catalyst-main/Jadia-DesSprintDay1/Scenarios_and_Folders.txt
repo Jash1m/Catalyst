@@ -1,0 +1,18 @@
+Scenarios:
+
+1. Graduate student John is working on a Master's degree in data science. Before he starts applying for employment, he wants to improve his abilities and create a solid resume. He learns about Catalyst and begins taking online classes in Python programming, data analysis, and machine learning. He uses the resume builder feature to produce an attractive data science resume after finishing a few courses, including the credentials he attained. He is able to land interviews with leading tech organizations because to his updated resume.
+2. Joe, a student from UNCC in his last year is looking to work ahead and be prepared for the job search and interview process. however, begins to feel overpowered by the competitive job market as graduation draws near. He feels unprepared for the job search process and isn't clear what precise career route he wants to take. Jamie, Joe's friend who graduated a year ago and is now employed by a Meta, observes Joe's worries. Jamie suggests Catalyst as a useful tool that helped him in his job-search process. To increase his chances of finding a job before graduating, Joe chooses to investigate Catalyst.
+
+User Stories:
+1. As a recent graduate, I need to get a job as soon as possible to pay off my college debts.
+2. As a neearly graduating student, I want to get ahead and take advantage of the opportunities that lie in front of me in the Computer Science career field.
+3. As a professional in the Cybersecurity field, I'm looking to get certifications to possibly land a better paying job.
+4. As a parent, I want to make sure my student is prepared for the job world and how much he needs to know before getting his dream job.
+
+Features:
+1. Specialized learning paths
+2. Job board integration
+3. User community (Reddit, Twitter style)
+4. Mobile App
+5. Customizable Resume Builder
+6. AI-powered recommendations/Help Chat

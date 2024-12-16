@@ -1,0 +1,22 @@
+Scenarios:
+
+Katie is a computer science student at UNCC in her last semester of school. Her concentration was in Cybersecurity. She is actively searching for jobs but has had no luck so far even landing an interview. After a few months of searching Katie decided that her resume was not up to par and this is the reason that no company was looking her way in the hiring process. She felt that her resume was a little empty looking and not 100% professional. She talks to her sister, Michelle, about her predicament and Michelle advises her to try Catalyst. That night Katie went to Catalyst.com and began one of the cybersecurity certification courses. She spent two days taking the course and get her certification. Then, Katie uploaded her current resume to Catalyst.com and the website automatically added the new certification and reformatted the entire resume to look more professional and clean. Luckily after a month, the revamp of her resume helped her land a job at IBM.
+
+Malik is a computer science student at UNCC in the middle of his junior year. He is thinking about concentrating in Web and Mobile App Development but wants to do an internship before committing. Malik is very active outside of school and has plenty of items to put on his resume to make it full. His resume looks very impressive and does not need any more improvements for the time being, so he applies for an internship at Bank of America. They decide he could be a worthy candidate and the Bank schedules an interview with Malik. The interviewing part is the most difficult part of the hiring process for Malik. He struggles with coming up with thorough annswers on the fly. He discusses his dilemma with his father. His father points him in the direction of Catalyst. Malik logs on and finds many mock interview questions on the website. He uses these to practice and aces his interview. And to his delight, Bankof America called him back a week later with an internship offer.
+
+User stories:
+
+As a recent graduate, I need to find a job so that I can move out.
+As a computer science professional, I need to edit my resume so that I can get a better job.
+As a professor I want all of my students to find good jobs so that they can move on with their lives
+As a current student, I need to practice more so that I don't fail my exams.
+
+Feature list:
+
+Online courses in any computer science topic
+Daily goals
+Resume builder
+Certifications for various courses
+Interview tips and tricks
+Mock interview questions
+Suitable for all skill levels

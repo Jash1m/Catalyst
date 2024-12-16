@@ -1,0 +1,28 @@
+Scenarios:
+
+Jacob is a computer science student in a local community college. He is near graduating but he feels that he isn't on par with other students that are graduating from 4-year colleges. To close that gap, Jacob needs to take some courses outside of his classes. He feels overwhelmed and isn't sure where he can start from as the internet is filled with all types of courses. However, one of his friends suggests that Jacob used Catalyst.com to help him get started.
+
+Jacob wants to focus on front end develpment, so he decides to polish up his JavaScript knowledge. So he goes to Catalyst.com and choses Intermediate and Advanced JavaScript as his learning goals, and sets a one hour daily time goal. According to the set learning and time goals, the website gives him an estimate of 6-8 weeks to finish the assigned modules.
+
+Going through the rest of the semester, Jacob is able to finish his modules and work on some recommended side projects. And by the time he graduates, the modules and side projects are all added to his profile and are reflected on his resume using the resume builder feature on the website.
+
+After he graduates, Jacob is able to find jobs that are looking for employees with expertise and qualifications similar to his on Catalyst.com, so he applyies to them and lands a couple of interviews. He used the resources provided on the website to prepare for those interviews. Thanks to those preparations, Jacob is able to land the job he wants.
+
+It doesnt stop there though cause even after Jacob lands his job, Catalyst.com still recommends material that can help him progress with his career.
+
+
+User Stories:
+
+- As a community college student, I need to bridge the gap with other students in 4-year colleges.
+- As a student, I need to utilize my time effeciently and find courses that fit my goals.
+- As an employee, I want expand my knowledge to further my career and get promoted.
+- As a graduate, I need to find a job that I qualify for.
+
+Features: 
+
+- Custom Learning Modules.
+- Set Daily Time Goals & Reminders.
+- Side Projects Recommendation.
+- Resume Builder.
+- Job Finder That Fits Users' Qualifications.
+- Career Expansion Tools.

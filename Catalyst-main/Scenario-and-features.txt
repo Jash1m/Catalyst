@@ -1,0 +1,19 @@
+﻿Scenario:
+Melvin is a 20 year old student at UNC Charlotte majoring in Computer Science and currently in his junior year. He likes to code and is interested in being a software engineer or a computer programmer once he graduates. He has many years of experience in Java and has one year of experience in Python. Melvin enjoys and is good at coding in Java and Python, but he does not have much on his GitHub profile to showcase his work.
+
+
+Melvin has applied to many internships but has not been accepted into any because his resume does not fully show what all he has done or is capable of doing. He realized that he needed to add more to his GitHub profile and resume. He also needs to practice coding more in Python because many jobs and internships require proficient experience in Python. Melvin might use the Catalyst system to take courses in Python and add to his resume.
+
+
+User stories:
+* As a student, I want to improve my skills in using different programming languages
+* As a graduate student, I want to be able to update my resume and apply for jobs
+
+
+Feature list:
+* A website explaining the catalyst system
+* A resume scanner
+* A skill development section to learn topics
+* Videos to prepare students for an interview
+* Programming tutorials for Python, Java, etc.
+* Links to other sites
